@@ -2,7 +2,7 @@
 int main ()
 {
     float x ;
-    printf("\nEnter the number : ",x);
+    printf("\nEnter the  decimal number : ",x);
     scanf("%f",&x);
     
     int y ; 
