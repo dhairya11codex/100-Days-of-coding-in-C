@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-    int a , b ;
+    int a , b ; // a > b 
     printf("Enter the value of a : ");
     scanf("%d",&a);
 
@@ -11,7 +11,7 @@ int main()
     int rem = a%b ;
     printf("\nRemainder is : %d ",rem);
     return 0;
-    
+
 
 
 }
